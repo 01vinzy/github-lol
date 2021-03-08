@@ -18,11 +18,6 @@ The project uses [Moment](https://www.npmjs.com/package/moment), a JavaScript da
 
 Clone and fork the repository to make the changes in your local system.
 
-```git-bash
-git clone https://github.com/iamrohitagg/GitHub_Graph.git
-cd Github_Graph
-```
-
 The following command creates a directory named node_modules and installs all the required packages in that.
 
 ```javascript
