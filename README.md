@@ -27,7 +27,7 @@ npm install
 Finally, run the project to see the magic of Moment package.
 
 ```javascript
-node index.js
+node ./index.js
 ```
 
 Bang !
